@@ -24,7 +24,7 @@ interoperability of this type of resource.
 - **10:30-11:00** Software installation + Break
 - **11:00-12:30** Introduction to web scraping (fetching webpages with cURL and
    introduction to HTML and markup languages)
-- **12:30-13:00**  Recapitulation and Q&A
+- **12:30-13:00**  Wrap-up and Q&A
 
 ### Wednesday June 1st
 - **9:00-9:15** Overview of the contents tackled on the first session
@@ -34,12 +34,12 @@ interoperability of this type of resource.
 - **11:30-11:45** Data modelling: presentation of required software
 - **11:45-12:00** Software installation + Break
 - **12:00-12:45** Introduction to data modelling and data standardisation
-- **12:45-13:00**  Recapitulation and Q&A
+- **12:45-13:00**  Wrap-up and Q&A
 
 ### Thursday June 2nd
 - **9:00-9:15** Overview of the contents tackled on previous sessions
 - **9:15-10:15** Introduction to TEI
-- **10:15-10:30** Data exploitation: presentation of required software
+- **10:15-10:30** Data analysis: presentation of required software
 - **10:30-11:00** Software installation + Break
 - **11:00-12:30** Creating, annotating and querying corpora with TXM
-- **12:30-13:00**  Recapitulation and Q&A
+- **12:30-13:00**  Wrap-up and Q&A
