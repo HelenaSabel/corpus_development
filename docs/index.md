@@ -20,26 +20,37 @@ interoperability of this type of resource.
 
 - **9:00-9:15** Welcome and introduction
 - **9:15-10:15** Explore your computer. Introduction to the command line
-- **10:15-10:30** Data collection: presentation of required software
-- **10:30-11:00** Software installation + Break
-- **11:00-12:30** Introduction to web scraping (fetching webpages with cURL and
-   introduction to HTML and markup languages)
-- **12:30-13:00**  Wrap-up and Q&A
+- **10:15-10:30** Data collection: presentation of required software (*cURL* and *OpenRefine*)
+- **10:30-10:50** Software installation + Break
+- **10:50-11:50** Introduction to web scraping: fetching webpages with *cURL*
+- **11:50-12:00** Break
+- **12:00-12:45** Introduction to HTML and markup languages
+- **12:45-13:00**  Wrap-up and Q&A
 
 ### Wednesday June 1st
 - **9:00-9:15** Overview of the contents tackled on the first session
-- **9:15-10:15** Introduction to web scraping with Open Refine
-- **10:15-10:30** Break
-- **10:30-11:30** Cleaning data with regular expressions
-- **11:30-11:45** Data modelling: presentation of required software
-- **11:45-12:00** Software installation + Break
+- **9:15-10:30** Introduction to web scraping with *OpenRefine*
+- **10:30-10:45** Break
+- **10:45-11:45** Cleaning data with regular expressions
+- **11:45-11:50** Data modelling: presentation of required software (*Visual Studio Code*)
+- **11:50-12:00** Software installation + Break
 - **12:00-12:45** Introduction to data modelling and data standardisation
 - **12:45-13:00**  Wrap-up and Q&A
 
 ### Thursday June 2nd
 - **9:00-9:15** Overview of the contents tackled on previous sessions
-- **9:15-10:15** Introduction to TEI
-- **10:15-10:30** Data analysis: presentation of required software
-- **10:30-11:00** Software installation + Break
-- **11:00-12:30** Creating, annotating and querying corpora with TXM
-- **12:30-13:00**  Wrap-up and Q&A
+- **9:15-10:30** Introduction to TEI
+- **10:30-10:35** Data analysis: presentation of required software (*TXM*)
+- **10:35-10:50** Software installation + Break
+- **10:50-11:40** Creating and annotating corpora with TXM
+- **11:40-11:50** Break
+- **11:50-12:45** Querying corpora with TXM
+- **12:45-13:00**  Wrap-up and Q&A
+
+## Software
+- [cURL](https://everything.curl.dev/get)
+- [OpenRefine](https://openrefine.org/docs/manual/installing)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+    - [TEI Publisher Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=e-editiones.tei-publisher-vscode)
+- [TXM](https://txm.gitpages.huma-num.fr/textometrie/files/software/TXM/0.8.1/en/)
+    - [Tree Tagger Extension](https://txm.gitpages.huma-num.fr/textometrie/en/InstallTreeTagger/)
