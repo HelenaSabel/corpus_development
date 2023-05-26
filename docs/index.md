@@ -11,7 +11,7 @@ that will take place online ([Zoom link](https://uni-rostock-de.zoom.us/j/630474
 The workshop will address all necessary steps to create an annotated textual corpus, paying special attention to the use of different standards in order to enhance the sustainability and              
 interoperability of this type of resource.
 
-**The event will take place from 30.05. to 01.06.2023 from 9:00 am - 1:00 pm.**
+**The event will take place from 30.05.2023 to 01.06.2023 from 9:00 am - 1:00 pm.**
 
 
 ## Program outline
@@ -27,7 +27,7 @@ interoperability of this type of resource.
 - **11:50-12:45** Introduction to HTML and markup languages
 - **12:45-13:00**  Wrap-up and Q&A
 
-### Wednesday June 1st
+### Wednesday May 31st
 - **9:00-9:15** Overview of the contents tackled on the first session
 - **9:15-10:30** Introduction to web scraping with *OpenRefine*
 - **10:30-10:35** Presentation of required software (*Visual Studio Code*)
@@ -37,7 +37,7 @@ interoperability of this type of resource.
 - **12:00-12:45** Introduction to data modelling and data standardisation
 - **12:45-13:00**  Wrap-up and Q&A
 
-### Thursday June 2nd
+### Thursday June 1st
 - **9:00-9:15** Overview of the contents tackled on previous sessions
 - **9:15-10:30** Introduction to TEI
 - **10:30-10:35** Data analysis: presentation of required software (*TXM*)

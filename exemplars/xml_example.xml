@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <stanza type="quatrain">
+        <l>Valenz Senher, rei dels Aragones</l>
+        <l>a qi prez es honors tut iorn enansa,</l>
+        <l>remembre vus, Senher, del Rei franzes</l>
+        <l>qe vus venc a vezer e laiset Fransa</l>
+    </stanza>
+    <stanza type="quatrain">
+        <l>Ab dos sos fillz es ab aqel d'Artes;</l>
+        <l>hanc no fes colp d'espaza ni de lansa</l>
+        <l>e mainz baros menet de lur paes:</l>
+        <l>jorn de lur vida said n'auran menbransa.</l>
+    </stanza>
+    <stanza type="tercet">
+        <l>Vostre Senhier faccia a vus compagna</l>
+        <l>per qe en ren no vus qal<supplied>la</supplied> duptar;</l>
+        <l>tals quida hom qe perda qe gazaingna.</l>
+    </stanza>
+    <stanza type="tercet">
+        <l>Seigner es de la terra e de la mar,</l>
+        <l>per qe lo Rei Engles e sel d'Espangna</l>
+        <l>ne varran mais, si.ls vorres aiudar.</l>
+    </stanza>
+</poem>
