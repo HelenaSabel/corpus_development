@@ -9,7 +9,7 @@ This is the homepage for the hybrid workshop *Digital corpus building for humani
 that will take place online ([Zoom link](https://uni-rostock-de.zoom.us/j/63047472241?pwd=MENUUFdma3Q3K0lGUDBzeWdEbGNPQT09)) and in person at: **Kröpeliner Str. 57, Jakobi-Passage, Seminarraum 8**.
 
 The workshop will address all necessary steps to create an annotated textual corpus, paying special attention to the use of different standards in order to enhance the sustainability and              
-interoperability of this type of resource.
+interoperability of this type of resource. **Download the supporting materials** (slides, datasets, etc.) [here](https://github.com/HelenaSabel/corpus_development) by clicking on the green button that says `Code`.
 
 **The event will take place from 30.05.2023 to 01.06.2023 from 9:00 am - 1:00 pm.**
 
@@ -42,7 +42,7 @@ interoperability of this type of resource.
 - **9:15-10:30** Introduction to TEI
 - **10:30-10:35** Data analysis: presentation of required software (*TXM*)
 - **10:35-10:50** Software installation + Break
-- **10:50-11:40** Creating and annotating corpora with TXM
+- **10:50-11:40** Creating and annotating corpora with TXM and use of the command line for simple textual analysis
 - **11:40-11:50** Break
 - **11:50-12:45** Querying corpora with TXM
 - **12:45-13:00**  Wrap-up and Q&A
@@ -52,5 +52,7 @@ interoperability of this type of resource.
 - [OpenRefine](https://openrefine.org/docs/manual/installing)
 - [Visual Studio Code](https://code.visualstudio.com/download)
     - [TEI Publisher Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=e-editiones.tei-publisher-vscode)
+    - [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 - [TXM](https://txm.gitpages.huma-num.fr/textometrie/files/software/TXM/0.8.1/en/)
-    - [Tree Tagger Extension](https://txm.gitpages.huma-num.fr/textometrie/en/InstallTreeTagger/)
+    - [TreeTagger Extension](https://txm.gitpages.huma-num.fr/textometrie/en/InstallTreeTagger/)
+
