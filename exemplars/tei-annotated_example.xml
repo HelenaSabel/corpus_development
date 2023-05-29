@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ecep="http://www.eighteenthcenturypoetry.org/ns">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HYMN TO SOLITUDE</title>
+            <author>Mary Darwall (née Whateley)</author>
+            <principal>Helena Bermúdez Sabel</principal>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file was created for didactic purposes. It consists on an adaptation of the work
+               developed within the <ref target="https://www.eighteenthcenturypoetry.org"
+                  >Eighteenth-Century Poetry Archive</ref>, and it is shared under the same licence
+               as required: <ref target="https://creativecommons.org/licenses/by-sa/4.0/"
+                  >CC-BY-SA</ref></p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <ptr
+                  target="https://www.eighteenthcenturypoetry.org/works/o4986-w0350.shtml#downloads"
+               />
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Only a “ecep” specific atribute was kept, all the others were replaced with the semantic equivalent
+         in the TEI namespace. E.g., <att>ecep:reg</att> was replaced with <att>norm</att>, and <att>ecep:spe</att>
+         with <att>orig</att>.</p>
+         <editorialDecl>
+            <p>The text has been typographically modernized, but without any silent modernization of
+               spelling, capitalization, or punctuation. The source of the text is given and all
+               editorial interventions have been recorded in textual notes. Based on the electronic
+               text originally produced by the TCP project, this ECPA text has been edited to
+               conform to the recommendations found in Level 5 of the Best Practices for TEI in
+               Libraries version 4.0.0. </p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>        
+         <div
+            ana="#iamb #tetrameter #trimeter #intermittent #quatrain #hymn"
+            corresp="#txt_DarwMa1738_w0003" decls="#semi-normalized" ecep:syllab="8.6.8.6"
+            met="-+|-+|-+|-+/ -+|-+|-+/ -+|-+|-+|-+/ -+|-+|-+/" rendition="#lgvspace" rhyme="xaxa"
+            subtype="eceptext" type="hymn" xml:id="o4986-w0350"> 
+            <head type="main">
+               <w xml:id="o4986-262910" n="128-a-0780" lemma="hymn" pos="n1" norm="HYMN"
+                  orig="HYMN" met="1">HYMN</w>
+               <c> </c>
+               <w xml:id="o4986-262920" n="128-a-0790" lemma="to" pos="ADP" norm="TO"
+                  orig="TO" met="1">TO</w>
+               <c> </c>
+               <w xml:id="o4986-262930" n="128-a-0800" lemma="solitude" pos="n1"
+                  norm="SOLITUDE" orig="SOLITUDE" met="3"
+                  >SOLITUDE</w>
+               <pc xml:id="o4986-262940" n="128-a-0810" unit="sentence" lemma="." pos="."
+                  norm="." orig=".">.</pc>
+            </head>
+            <byline>
+               <w xml:id="o4986-262970" n="128-a-0820" lemma="by" pos="ADP" norm="BY"
+                  orig="BY" met="1">BY</w>
+               <c> </c>
+               <w xml:id="o4986-262980" n="128-a-0830" lemma="the" pos="dt" norm="THE"
+                  orig="THE" met="1">THE</w>
+               <c> </c>
+               <w xml:id="o4986-262990" n="128-a-0840" lemma="same" pos="d" norm="SAME"
+                  orig="SAME" met="1">SAME</w>
+               <pc xml:id="o4986-263000" n="128-a-0850" unit="sentence" lemma="." pos="."
+                  norm="." orig=".">.</pc>
+            </byline>
+            <lg xml:id="o4986-s01900">
+               <l xml:id="o4986-l14290">
+                  <w xml:id="o4986-263030" n="128-a-0860" lemma="now" pos="ADV"
+                     norm="NOW" orig="NOW" met="1">NOW</w>
+                  <c> </c>
+                  <w xml:id="o4986-263040" n="128-a-0870" lemma="genial" pos="ADJ"
+                     norm="genial" orig="genial" met="2"
+                     >genial</w>
+                  <c> </c>
+                  <w xml:id="o4986-263050" n="128-a-0880" lemma="spring" pos="n1"
+                     norm="Spring" orig="Spring" met="1"
+                     >Spring</w>
+                  <c> </c>
+                  <w xml:id="o4986-263060" n="128-a-0890" lemma="over" pos="ADP"
+                     norm="over" orig="o'er" met="1">o'er</w>
+                  <c> </c>
+                  <w xml:id="o4986-263070" n="128-a-0900" lemma="lawn" pos="n1"
+                     norm="lawn" orig="lawn" met="1">lawn</w>
+                  <c> </c>
+                  <w xml:id="o4986-263080" n="128-a-0910" lemma="and" pos="cc"
+                     norm="and" orig="and" met="1">and</w>
+                  <c> </c>
+                  <w xml:id="o4986-263090" n="128-a-0920" lemma="grove" pos="n1"
+                     norm="grove" orig="grove" met="1">grove</w>
+               </l>
+               <l xml:id="o4986-l14295">
+                  <c> </c>
+                  <w xml:id="o4986-263100" n="128-a-0930" lemma="extend" pos="vvz"
+                     norm="Extends" orig="Extends" met="2"
+                     >Extends</w>
+                  <c> </c>
+                  <w xml:id="o4986-263110" n="128-a-0940" lemma="her" pos="po31"
+                     norm="her" orig="her" met="1">her</w>
+                  <c> </c>
+                  <w xml:id="o4986-263120" n="128-a-0950" lemma="vivid" pos="ADJ"
+                     norm="vivid" orig="vivid" met="2">vivid</w>
+                  <c> </c>
+                  <w xml:id="o4986-263130" n="128-a-0960" lemma="power" pos="n1"
+                     norm="power" orig="power" met="1">power</w>
+                  <pc xml:id="o4986-263140" n="128-a-0970" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14300">
+                  <c> </c>
+                  <w xml:id="o4986-263150" n="128-a-0980" lemma="now" pos="ADV"
+                     norm="Now" orig="Now" met="1">Now</w>
+                  <c> </c>
+                  <w xml:id="o4986-263160" n="128-a-0990" lemma="Phoebus" pos="PROPN"
+                     norm="Phoebus" orig="Phoebus" met="2"
+                     >Phoebus</w>
+                  <c> </c>
+                  <w xml:id="o4986-263170" n="128-a-1000" lemma="shine" pos="vvz"
+                     norm="shines" orig="shines" met="1"
+                     >shines</w>
+                  <c> </c>
+                  <w xml:id="o4986-263180" n="128-a-1010" lemma="with" pos="ADP"
+                     norm="with" orig="with" met="1">with</w>
+                  <c> </c>
+                  <w xml:id="o4986-263190" n="128-a-1020" lemma="mild" pos="js"
+                     norm="mildest" orig="mildest" met="2"
+                     >mildest</w>
+                  <c> </c>
+                  <w xml:id="o4986-263200" n="128-a-1030" lemma="beam" pos="n2"
+                     norm="beams" orig="beams" met="1">beams</w>
+                  <pc xml:id="o4986-263210" n="128-a-1040" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14305">
+                  <c> </c>
+                  <w xml:id="o4986-263220" n="128-a-1050" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-263230" n="128-a-1060" lemma="wake" pos="vvz"
+                     norm="wakes" orig="wakes" met="1">wakes</w>
+                  <c> </c>
+                  <w xml:id="o4986-263240" n="128-a-1070" lemma="each" pos="d"
+                     norm="each" orig="each" met="1">each</w>
+                  <c> </c>
+                  <w xml:id="o4986-263250" n="128-a-1080" lemma="sleep" pos="j-vvg"
+                     norm="sleeping" orig="sleeping" met="2"
+                     >sleeping</w>
+                  <c> </c>
+                  <w xml:id="o4986-263260" n="128-a-1090" lemma="flower" pos="n1"
+                     norm="flower" orig="flower" met="1">flower</w>
+                  <pc xml:id="o4986-263270" n="128-a-1100" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01905">
+               <l xml:id="o4986-l14310">
+                  <w xml:id="o4986-263300" n="128-a-1110" lemma="soft" pos="ADJ"
+                     norm="Soft" orig="Soft" met="1">Soft</w>
+                  <c> </c>
+                  <w xml:id="o4986-263310" n="128-a-1120" lemma="breeze" pos="vvz"
+                     norm="breezes" orig="breezes" met="2"
+                     >breezes</w>
+                  <c> </c>
+                  <w xml:id="o4986-263320" n="128-a-1130" lemma="fan" pos="n1"
+                     norm="fan" orig="fan" met="1">fan</w>
+                  <c> </c>
+                  <w xml:id="o4986-263330" n="128-a-1140" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-263340" n="128-a-1150" lemma="smile" pos="j-vvg"
+                     norm="smiling" orig="smiling" met="2"
+                     >smiling</w>
+                  <c> </c>
+                  <w xml:id="o4986-263350" n="128-a-1160" lemma="mead" pos="n1"
+                     norm="mead" orig="mead" met="1">mead</w>
+                  <pc xml:id="o4986-263360" n="128-a-1170" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14315">
+                  <c> </c>
+                  <w xml:id="o4986-263370" n="128-a-1180" lemma="kind" pos="ADJ"
+                     norm="Kind" orig="Kind" met="1">Kind</w>
+                  <c> </c>
+                  <w xml:id="o4986-263380" n="128-a-1190" lemma="dew" pos="n2"
+                     norm="dews" orig="dews" met="1">dews</w>
+                  <c> </c>
+                  <w xml:id="o4986-263390" n="128-a-1200" lemma="refresh" pos="vvi"
+                     norm="refresh" orig="refresh" met="2"
+                     >refresh</w>
+                  <c> </c>
+                  <w xml:id="o4986-263400" n="128-a-1210" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-263410" n="128-a-1220" lemma="plain" pos="ADJ"
+                     norm="plain" orig="plain" met="1">plain</w>
+                  <pc xml:id="o4986-263420" n="128-a-1230" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14320">
+                  <c> </c>
+                  <w xml:id="o4986-263430" n="128-a-1240" lemma="while" pos="cs"
+                     norm="While" orig="While" met="1">While</w>
+                  <c> </c>
+                  <w xml:id="o4986-263440" n="128-a-1250" lemma="beauty" pos="n1"
+                     norm="Beauty" orig="Beauty" met="2"
+                     >Beauty</w>
+                  <pc xml:id="o4986-263450" n="128-a-1260" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+                  <c> </c>
+                  <w xml:id="o4986-263460" n="128-a-1270" lemma="harmony" pos="n1"
+                     norm="Harmony" orig="Harmony" met="3"
+                     >Harmony</w>
+                  <pc xml:id="o4986-263470" n="128-a-1280" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+                  <c> </c>
+                  <w xml:id="o4986-263480" n="128-a-1290" lemma="and" pos="cc"
+                     norm="and" orig="and" met="1">and</w>
+                  <c> </c>
+                  <w xml:id="o4986-263490" n="128-a-1300" lemma="love" pos="n1"
+                     norm="Love" orig="Love" met="1">Love</w>
+                  <pc xml:id="o4986-263500" n="128-a-1310" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14325">
+                  <c> </c>
+                  <w xml:id="o4986-263510" n="128-a-1320" lemma="renew" pos="VERB"
+                     norm="Renew" orig="Renew" met="2">Renew</w>
+                  <c> </c>
+                  <w xml:id="o4986-263520" n="128-a-1330" lemma="their" pos="po32"
+                     norm="their" orig="their" met="1">their</w>
+                  <c> </c>
+                  <w xml:id="o4986-263530" n="128-a-1340" lemma="cheerful" pos="ADJ"
+                     norm="cheerful" orig="chearful" met="2"
+                     >chearful</w>
+                  <c> </c>
+                  <w xml:id="o4986-263540" n="128-a-1350" lemma="reign" pos="n1"
+                     norm="reign" orig="reign" met="1">reign</w>
+                  <pc xml:id="o4986-263550" n="128-a-1360" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01910">
+               <l xml:id="o4986-l14330">
+                  <w xml:id="o4986-263580" n="128-a-1370" lemma="now" pos="ADV"
+                     norm="Now" orig="Now" met="1">Now</w>
+                  <c> </c>
+                  <w xml:id="o4986-263590" n="128-a-1380" lemma="far" pos="av-j"
+                     norm="far" orig="far" met="1">far</w>
+                  <c> </c>
+                  <w xml:id="o4986-263600" n="128-a-1390" lemma="from" pos="ADP"
+                     norm="from" orig="from" met="1">from</w>
+                  <c> </c>
+                  <w xml:id="o4986-263610" n="128-a-1400" lemma="business" pos="n1"
+                     norm="business" orig="business" met="2"
+                     >business</w>
+                  <c> </c>
+                  <w xml:id="o4986-263620" n="128-a-1410" lemma="let" pos="VERB"
+                     norm="let" orig="let" met="1">let</w>
+                  <c> </c>
+                  <w xml:id="o4986-263630" n="128-a-1420" lemma="i" pos="pno11"
+                     norm="me" orig="me" met="1">me</w>
+                  <c> </c>
+                  <w xml:id="o4986-263640" n="128-a-1430" lemma="fly" pos="vvi"
+                     norm="fly" orig="fly" met="1">fly</w>
+                  <pc xml:id="o4986-263650" n="128-a-1440" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14335">
+                  <c> </c>
+                  <w xml:id="o4986-263660" n="128-a-1450" lemma="far" pos="av-j"
+                     norm="Far" orig="Far" met="1">Far</w>
+                  <c> </c>
+                  <w xml:id="o4986-263670" n="128-a-1460" lemma="from" pos="ADP"
+                     norm="from" orig="from" met="1">from</w>
+                  <c> </c>
+                  <w xml:id="o4986-263680" n="128-a-1470" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-263690" n="128-a-1480" lemma="crowd" pos="j-vvn"
+                     norm="crowded" orig="crouded" met="2"
+                     >crouded</w>
+                  <c> </c>
+                  <w xml:id="o4986-263700" n="128-a-1490" lemma="seat" pos="n1"
+                     norm="seat" orig="seat" met="1">seat</w>
+               </l>
+               <l xml:id="o4986-l14340">
+                  <c> </c>
+                  <w xml:id="o4986-263710" n="128-a-1500" lemma="of" pos="pp-f"
+                     norm="Of" orig="Of" met="1">Of</w>
+                  <c> </c>
+                  <w xml:id="o4986-263720" n="128-a-1510" lemma="envy" pos="n1"
+                     norm="Envy" orig="Envy" met="2">Envy</w>
+                  <pc xml:id="o4986-263730" n="128-a-1520" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+                  <c> </c>
+                  <w xml:id="o4986-263740" n="128-a-1530" lemma="pageantry" pos="n1"
+                     norm="Pageantry" orig="Pageantry" met="3"
+                    >Pageantry</w>
+                  <pc xml:id="o4986-263750" n="128-a-1540" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+                  <c> </c>
+                  <w xml:id="o4986-263760" n="128-a-1550" lemma="and" pos="cc"
+                     norm="and" orig="and" met="1">and</w>
+                  <c> </c>
+                  <w xml:id="o4986-263770" n="128-a-1560" lemma="power" pos="n1"
+                     norm="Power" orig="Power" met="1">Power</w>
+                  <pc xml:id="o4986-263780" n="128-a-1570" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14345">
+                  <c> </c>
+                  <w xml:id="o4986-263790" n="128-a-1580" lemma="to" pos="ADP"
+                     norm="To" orig="To" met="1">To</w>
+                  <c> </c>
+                  <w xml:id="o4986-263800" n="128-a-1590" lemma="some" pos="d"
+                     norm="some" orig="some" met="1">some</w>
+                  <c> </c>
+                  <w xml:id="o4986-263810" n="128-a-1600" lemma="obscure" pos="ADJ"
+                     norm="obscure" orig="obscure" met="2"
+                     >obscure</w>
+                  <c> </c>
+                  <w xml:id="o4986-263820" n="128-a-1610" lemma="retreat" pos="n1"
+                     norm="retreat" orig="retreat" met="2"
+                     >retreat</w>
+                  <pc xml:id="o4986-263830" n="128-a-1620" lemma=":" pos=":" norm=":"
+                     orig=":">:</pc>
+               </l>
+            </lg>
+            <pb facs="o4986/0129" n="127" rend="none"/>
+            <lg xml:id="o4986-s01915">
+               <l xml:id="o4986-l14350">
+                  <w xml:id="o4986-263860" n="129-a-0010" lemma="where" pos="q-crq"
+                     norm="Where" orig="Where" met="1">Where</w>
+                  <c> </c>
+                  <w xml:id="o4986-263870" n="129-a-0020" lemma="plenty" pos="n1"
+                     norm="Plenty" orig="Plenty" met="2"
+                     >Plenty</w>
+                  <c> </c>
+                  <w xml:id="o4986-263880" n="129-a-0030" lemma="shed" pos="vvz"
+                     norm="sheds" orig="sheds" met="1">sheds</w>
+                  <c> </c>
+                  <w xml:id="o4986-263890" n="129-a-0040" lemma="with" pos="ADP"
+                     norm="with" orig="with" met="1">with</w>
+                  <c> </c>
+                  <w xml:id="o4986-263900" n="129-a-0050" lemma="liberal" pos="ADJ"
+                     norm="liberal" orig="liberal" met="3"
+                     >liberal</w>
+                  <c> </c>
+                  <w xml:id="o4986-263910" n="129-a-0060" lemma="hand" pos="n1"
+                     norm="hand" orig="hand" met="1">hand</w>
+               </l>
+               <l xml:id="o4986-l14355">
+                  <c> </c>
+                  <w xml:id="o4986-263920" n="129-a-0070" lemma="her" pos="po31"
+                     norm="Her" orig="Her" met="1">Her</w>
+                  <c> </c>
+                  <w xml:id="o4986-263930" n="129-a-0080" lemma="various" pos="ADJ"
+                     norm="various" orig="various" met="2"
+                     >various</w>
+                  <c> </c>
+                  <w xml:id="o4986-263940" n="129-a-0090" lemma="blessing" pos="n2"
+                     norm="blessings" orig="blessings" met="2"
+                     >blessings</w>
+                  <c> </c>
+                  <w xml:id="o4986-263950" n="129-a-0100" lemma="round" pos="av-j"
+                     norm="round" orig="round" met="1">round</w>
+                  <pc xml:id="o4986-263960" n="129-a-0110" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14360">
+                  <c> </c>
+                  <w xml:id="o4986-263970" n="129-a-0120" lemma="where" pos="c-crq"
+                     norm="Where" orig="Where" met="1">Where</w>
+                  <c> </c>
+                  <w xml:id="o4986-263980" n="129-a-0130" lemma="laugh" pos="vvg"
+                     norm="laughing" orig="laughing" met="2"
+                     >laughing</w>
+                  <c> </c>
+                  <w xml:id="o4986-263990" n="129-a-0140" lemma="joy" pos="n1"
+                     norm="Joy" orig="Joy" met="1">Joy</w>
+                  <c> </c>
+                  <w xml:id="o4986-264000" n="129-a-0150" lemma="delight" pos="vvn"
+                     norm="delighted" orig="delighted" met="3"
+                     >delighted</w>
+                  <c> </c>
+                  <w xml:id="o4986-264010" n="129-a-0160" lemma="rove" pos="vvz"
+                     norm="roves" orig="roves" met="1">roves</w>
+                  <pc xml:id="o4986-264020" n="129-a-0170" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14365">
+                  <c> </c>
+                  <w xml:id="o4986-264030" n="129-a-0180" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-264040" n="129-a-0190" lemma="roseate" pos="ADJ"
+                     norm="roseate" orig="roseate" met="3"
+                     >roseate</w>
+                  <c> </c>
+                  <w xml:id="o4986-264050" n="129-a-0200" lemma="health" pos="n1"
+                     norm="Health" orig="Health" met="1">Health</w>
+                  <c> </c>
+                  <w xml:id="o4986-264060" n="129-a-0210" lemma="be" pos="vbz" norm="is"
+                     orig="is" met="1">is</w>
+                  <c> </c>
+                  <w xml:id="o4986-264070" n="129-a-0220" lemma="find" pos="vvn"
+                     norm="found" orig="found" met="1">found</w>
+                  <pc xml:id="o4986-264080" n="129-a-0230" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01920">
+               <l xml:id="o4986-l14370">
+                  <w xml:id="o4986-264110" n="129-a-0240" lemma="give" pos="VERB"
+                     norm="Give" orig="Give" met="1">Give</w>
+                  <c> </c>
+                  <w xml:id="o4986-264120" n="129-a-0250" lemma="i" pos="pno11"
+                     norm="me" orig="me" met="1">me</w>
+                  <c> </c>
+                  <w xml:id="o4986-264130" n="129-a-0260" lemma="to" pos="pc-acp"
+                     norm="to" orig="to" met="1">to</w>
+                  <c> </c>
+                  <w xml:id="o4986-264140" n="129-a-0270" lemma="climb" pos="vvi"
+                     norm="climb" orig="climb" met="1">climb</w>
+                  <c> </c>
+                  <w xml:id="o4986-264150" n="129-a-0280" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264160" n="129-a-0290" lemma="mountain" pos="ng1"
+                     norm="mountain's" orig="mountain's" met="2"
+                    >mountain's</w>
+                  <c> </c>
+                  <w xml:id="o4986-264170" n="129-a-0300" lemma="brow" pos="n1"
+                     norm="brow" orig="brow" met="1">brow</w>
+                  <pc xml:id="o4986-264180" n="129-a-0310" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14375">
+                  <c> </c>
+                  <w xml:id="o4986-264190" n="129-a-0320" lemma="when" pos="c-crq"
+                     norm="When" orig="When" met="1">When</w>
+                  <c> </c>
+                  <w xml:id="o4986-264200" n="129-a-0330" lemma="morn" pos="n1|vbz"
+                     norm="morn's" orig="morn's" met="1"
+                     >morn's</w>
+                  <c> </c>
+                  <w xml:id="o4986-264210" n="129-a-0340" lemma="first" pos="ord"
+                     norm="first" orig="first" met="1">first</w>
+                  <c> </c>
+                  <w xml:id="o4986-264220" n="129-a-0350" lemma="blush" pos="n2"
+                     norm="blushes" orig="blushes" met="2"
+                     >blushes</w>
+                  <c> </c>
+                  <w xml:id="o4986-264230" n="129-a-0360" lemma="rise" pos="vvi"
+                     norm="rise" orig="rise" met="1">rise</w>
+                  <pc xml:id="o4986-264240" n="129-a-0370" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14380">
+                  <c> </c>
+                  <w xml:id="o4986-264250" n="129-a-0380" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-264260" n="129-a-0390" lemma="view" pos="vvi"
+                     norm="view" orig="view" met="1">view</w>
+                  <c> </c>
+                  <w xml:id="o4986-264270" n="129-a-0400" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264280" n="129-a-0410" lemma="fair" pos="ADJ"
+                     norm="fair" orig="fair" met="1">fair</w>
+                  <c> </c>
+                  <w xml:id="o4986-264290" n="129-a-0420" lemma="extensive" pos="ADJ"
+                     norm="extensive" orig="extensive" met="3"
+                    >extensive</w>
+                  <c> </c>
+                  <w xml:id="o4986-264300" n="129-a-0430" lemma="scene" pos="n1"
+                     norm="scene" orig="scene" met="1">scene</w>
+               </l>
+               <l xml:id="o4986-l14385">
+                  <c> </c>
+                  <w xml:id="o4986-264310" n="129-a-0440" lemma="with" pos="ADP"
+                     norm="With" orig="With" met="1">With</w>
+                  <c> </c>
+                  <w xml:id="o4986-264320" n="129-a-0450" lemma="contemplation" pos="ng1"
+                     norm="Contemplation's" orig="Contemplation's" met="4"
+                    >Contemplation's</w>
+                  <c> </c>
+                  <w xml:id="o4986-264330" n="129-a-0460" lemma="eye" pos="n2"
+                     norm="eyes" orig="eyes" met="1">eyes</w>
+                  <pc xml:id="o4986-264340" n="129-a-0470" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01925">
+               <l xml:id="o4986-l14390">
+                  <w xml:id="o4986-264370" n="129-a-0480" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-264380" n="129-a-0490" lemma="while" pos="cs"
+                     norm="while" orig="while" met="1">while</w>
+                  <c> </c>
+                  <w xml:id="o4986-264390" n="129-a-0500" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264400" n="129-a-0510" lemma="rapture" pos="j-vvn"
+                     norm="raptured" orig="raptur'd" met="2"
+                     >raptur'd</w>
+                  <c> </c>
+                  <w xml:id="o4986-264410" n="129-a-0520" lemma="woodland" pos="n1"
+                     norm="woodland" orig="woodland" met="2"
+                     >woodland</w>
+                  <c> </c>
+                  <w xml:id="o4986-264420" n="129-a-0530" lemma="choir" pos="n1"
+                     norm="choir" orig="choir" met="2">choir</w>
+               </l>
+               <l xml:id="o4986-l14395">
+                  <c> </c>
+                  <w xml:id="o4986-264430" n="129-a-0540" lemma="pour" pos="VERB"
+                     norm="Pour" orig="Pour" met="1">Pour</w>
+                  <c> </c>
+                  <w xml:id="o4986-264440" n="129-a-0550" lemma="forth" pos="ADV"
+                     norm="forth" orig="forth" met="1">forth</w>
+                  <c> </c>
+                  <w xml:id="o4986-264450" n="129-a-0560" lemma="their" pos="po32"
+                     norm="their" orig="their" met="1">their</w>
+                  <c> </c>
+                  <w xml:id="o4986-264460" n="129-a-0570" lemma="love-taught" pos="ADJ"
+                     norm="love-taught" orig="love-taught" met="2"
+                    >love-taught</w>
+                  <c> </c>
+                  <w xml:id="o4986-264470" n="129-a-0580" lemma="lay" pos="n2"
+                     norm="lays" orig="lays" met="1">lays</w>
+                  <pc xml:id="o4986-264480" n="129-a-0590" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14400">
+                  <c> </c>
+                  <w xml:id="o4986-264490" n="129-a-0600" lemma="i|will" pos="pns11|vmb"
+                     norm="I'll" orig="I'll" met="1">I'll</w>
+                  <c> </c>
+                  <w xml:id="o4986-264500" n="129-a-0610" lemma="tune" pos="VERB"
+                     norm="tune" orig="tune" met="1">tune</w>
+                  <c> </c>
+                  <w xml:id="o4986-264510" n="129-a-0620" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264520" n="129-a-0630" lemma="grateful" pos="ADJ"
+                     norm="grateful" orig="grateful" met="2"
+                     >grateful</w>
+                  <c> </c>
+                  <w xml:id="o4986-264530" n="129-a-0640" lemma="matin" pos="fw-fr"
+                     norm="matin" orig="matin" met="2">matin</w>
+                  <c> </c>
+                  <w xml:id="o4986-264540" n="129-a-0650" lemma="song" pos="n1"
+                     norm="song" orig="song" met="1">song</w>
+               </l>
+               <l xml:id="o4986-l14405">
+                  <c> </c>
+                  <w xml:id="o4986-264550" n="129-a-0660" lemma="to" pos="ADP"
+                     norm="To" orig="To" met="1">To</w>
+                  <c> </c>
+                  <w xml:id="o4986-264560" n="129-a-0670" lemma="my" pos="po11"
+                     norm="my" orig="my" met="1">my</w>
+                  <c> </c>
+                  <w xml:id="o4986-264570" n="129-a-0680" lemma="creator" pos="ng1"
+                     norm="Creator's" orig="Creator's" met="2"
+                     >Creator's</w>
+                  <c> </c>
+                  <w xml:id="o4986-264580" n="129-a-0690" lemma="praise" pos="n1"
+                     norm="praise" orig="praise" met="1"
+                     >praise</w>
+                  <pc xml:id="o4986-264590" n="129-a-0700" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01930">
+               <l xml:id="o4986-l14410">
+                  <w xml:id="o4986-264620" n="129-a-0710" lemma="he" pos="pns31"
+                     norm="He" orig="He" met="1">He</w>
+                  <c> </c>
+                  <w xml:id="o4986-264630" n="129-a-0720" lemma="bid" pos="vvd"
+                     norm="bade" orig="bade" met="1">bade</w>
+                  <c> </c>
+                  <w xml:id="o4986-264640" n="129-a-0730" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264650" n="129-a-0740" lemma="solar" pos="ADJ"
+                     norm="solar" orig="solar" met="2">solar</w>
+                  <c> </c>
+                  <w xml:id="o4986-264660" n="129-a-0750" lemma="orb" pos="n1"
+                     norm="orb" orig="orb" met="1">orb</w>
+                  <c> </c>
+                  <w xml:id="o4986-264670" n="129-a-0760" lemma="advance" pos="vvi"
+                     norm="advance" orig="advance" met="2"
+                     >advance</w>
+               </l>
+               <l xml:id="o4986-l14415">
+                  <c> </c>
+                  <w xml:id="o4986-264680" n="129-a-0770" lemma="to" pos="pc-acp"
+                     norm="To" orig="To" met="1">To</w>
+                  <c> </c>
+                  <w xml:id="o4986-264690" n="129-a-0780" lemma="cheer" pos="vvi"
+                     norm="cheer" orig="cheer" met="1">cheer</w>
+                  <c> </c>
+                  <w xml:id="o4986-264700" n="129-a-0790" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264710" n="129-a-0800" lemma="gloomy" pos="ADJ"
+                     norm="gloomy" orig="gloomy" met="2"
+                     >gloomy</w>
+                  <c> </c>
+                  <w xml:id="o4986-264720" n="129-a-0810" lemma="sky" pos="n1"
+                     norm="sky" orig="sky" met="1">sky</w>
+                  <pc xml:id="o4986-264730" n="129-a-0820" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14420">
+                  <c> </c>
+                  <w xml:id="o4986-264740" n="129-a-0830" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-264750" n="129-a-0840" lemma="at" pos="ADP"
+                     norm="at" orig="at" met="1">at</w>
+                  <c> </c>
+                  <w xml:id="o4986-264760" n="129-a-0850" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264770" n="129-a-0860" lemma="gentle" pos="j-jn"
+                     norm="gentle" orig="gentle" met="2"
+                     >gentle</w>
+                  <c> </c>
+                  <w xml:id="o4986-264780" n="129-a-0870" lemma="voice" pos="n1"
+                     norm="voice" orig="voice" met="1">voice</w>
+                  <c> </c>
+                  <w xml:id="o4986-264790" n="129-a-0880" lemma="of" pos="pp-f"
+                     norm="of" orig="of" met="1">of</w>
+                  <c> </c>
+                  <w xml:id="o4986-264800" n="129-a-0890" lemma="spring" pos="n1"
+                     norm="Spring" orig="Spring" met="1"
+                     >Spring</w>
+               </l>
+               <l xml:id="o4986-l14425">
+                  <c> </c>
+                  <w xml:id="o4986-264810" n="129-a-0900" lemma="make" pos="vvn"
+                     norm="Made" orig="Made" met="1">Made</w>
+                  <c> </c>
+                  <w xml:id="o4986-264820" n="129-a-0910" lemma="hoary" pos="ADJ"
+                     norm="hoary" orig="hoary" met="2">hoary</w>
+                  <c> </c>
+                  <w xml:id="o4986-264830" n="129-a-0920" lemma="winter" pos="n1"
+                     norm="Winter" orig="Winter" met="2"
+                     >Winter</w>
+                  <c> </c>
+                  <w xml:id="o4986-264840" n="129-a-0930" lemma="fly" pos="vvi"
+                     norm="fly" orig="fly" met="1">fly</w>
+                  <pc xml:id="o4986-264850" n="129-a-0940" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01935">
+               <l xml:id="o4986-l14430">
+                  <w xml:id="o4986-264880" n="129-a-0950" lemma="he" pos="pns31"
+                     norm="He" orig="He" met="1">He</w>
+                  <c> </c>
+                  <w xml:id="o4986-264890" n="129-a-0960" lemma="dress" pos="vvd"
+                     norm="dressed" orig="dress'd" met="1"
+                     >dress'd</w>
+                  <c> </c>
+                  <w xml:id="o4986-264900" n="129-a-0970" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264910" n="129-a-0980" lemma="grove" pos="n2"
+                     norm="groves" orig="groves" met="1"
+                     >groves</w>
+                  <c> </c>
+                  <w xml:id="o4986-264920" n="129-a-0990" lemma="in" pos="ADP"
+                     norm="in" orig="in" met="1">in</w>
+                  <c> </c>
+                  <w xml:id="o4986-264930" n="129-a-1000" lemma="smile" pos="vvg"
+                     norm="smiling" orig="smiling" met="2"
+                     >smiling</w>
+                  <c> </c>
+                  <w xml:id="o4986-264940" n="129-a-1010" lemma="green" pos="j-jn"
+                     norm="green" orig="green" met="1">green</w>
+                  <pc xml:id="o4986-264950" n="129-a-1020" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14435">
+                  <c> </c>
+                  <w xml:id="o4986-264960" n="129-a-1030" lemma="unlock" pos="vvn"
+                     norm="Unlocked" orig="Unlock'd" met="2"
+                     >Unlock'd</w>
+                  <c> </c>
+                  <w xml:id="o4986-264970" n="129-a-1040" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-264980" n="129-a-1050" lemma="ice-bound" pos="ADJ"
+                     norm="icebound" orig="ice-bound" met="2"
+                     >ice-bound</w>
+                  <c> </c>
+                  <w xml:id="o4986-264990" n="129-a-1060" lemma="rill" pos="VERB"
+                     norm="rill" orig="rill" met="1">rill</w>
+                  <pc xml:id="o4986-265000" n="129-a-1070" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14440">
+                  <c> </c>
+                  <w xml:id="o4986-265010" n="129-a-1080" lemma="bid" pos="vvd"
+                     norm="Bade" orig="Bade" met="1">Bade</w>
+                  <c> </c>
+                  <w xml:id="o4986-265020" n="129-a-1090" lemma="Flora" pos="npg1"
+                     norm="Flora's" orig="Flora's" met="2"
+                     >Flora's</w>
+                  <c> </c>
+                  <w xml:id="o4986-265030" n="129-a-1100" lemma="pride" pos="n1"
+                     norm="pride" orig="pride" met="1">pride</w>
+                  <c> </c>
+                  <w xml:id="o4986-265040" n="129-a-1110" lemma="adorn" pos="vvi"
+                     norm="adorn" orig="adorn" met="2">adorn</w>
+                  <c> </c>
+                  <w xml:id="o4986-265050" n="129-a-1120" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265060" n="129-a-1130" lemma="vale" pos="n1"
+                     norm="vale" orig="vale" met="1">vale</w>
+                  <pc xml:id="o4986-265070" n="129-a-1140" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14445">
+                  <c> </c>
+                  <w xml:id="o4986-265080" n="129-a-1150" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-265090" n="129-a-1160" lemma="herbage" pos="n1"
+                     norm="herbage" orig="herbage" met="2"
+                     >herbage</w>
+                  <c> </c>
+                  <w xml:id="o4986-265100" n="129-a-1170" lemma="crown" pos="vvi"
+                     norm="crown" orig="crown" met="1">crown</w>
+                  <c> </c>
+                  <w xml:id="o4986-265110" n="129-a-1180" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265120" n="129-a-1190" lemma="hill" pos="n1"
+                     norm="hill" orig="hill" met="1">hill</w>
+                  <pc xml:id="o4986-265130" n="129-a-1200" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01940">
+               <l xml:id="o4986-l14450">
+                  <w xml:id="o4986-265160" n="129-a-1210" lemma="to" pos="ADP"
+                     norm="To" orig="To" met="1">To</w>
+                  <c> </c>
+                  <w xml:id="o4986-265170" n="129-a-1220" lemma="that" pos="d"
+                     norm="that" orig="that" met="1">that</w>
+                  <c> </c>
+                  <w xml:id="o4986-265180" n="129-a-1230" lemma="all-gracious" pos="ADJ"
+                     norm="all-gracious" orig="all-gracious" met="3"
+                    >all-gracious</w>
+                  <c> </c>
+                  <w xml:id="o4986-265190" n="129-a-1240" lemma="source" pos="n1"
+                     norm="source" orig="source" met="1">source</w>
+                  <c> </c>
+                  <w xml:id="o4986-265200" n="129-a-1250" lemma="of" pos="pp-f"
+                     norm="of" orig="of" met="1">of</w>
+                  <c> </c>
+                  <w xml:id="o4986-265210" n="129-a-1260" lemma="light" pos="n1"
+                     norm="light" orig="light" met="1">light</w>
+                  <pc xml:id="o4986-265220" n="129-a-1270" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14455">
+                  <c> </c>
+                  <w xml:id="o4986-265230" n="129-a-1280" lemma="let" pos="VERB"
+                     norm="Let" orig="Let" met="1">Let</w>
+                  <c> </c>
+                  <w xml:id="o4986-265240" n="129-a-1290" lemma="early" pos="ADJ"
+                     norm="early" orig="early" met="2">early</w>
+                  <c> </c>
+                  <w xml:id="o4986-265250" n="129-a-1300" lemma="incense" pos="n1"
+                     norm="incense" orig="incense" met="2"
+                     >incense</w>
+                  <c> </c>
+                  <w xml:id="o4986-265260" n="129-a-1310" lemma="rise" pos="vvi"
+                     norm="rise" orig="rise" met="1">rise</w>
+                  <pc xml:id="o4986-265270" n="129-a-1320" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14460">
+                  <c> </c>
+                  <w xml:id="o4986-265280" n="129-a-1330" lemma="while" pos="cs"
+                     norm="While" orig="While" met="1">While</w>
+                  <c> </c>
+                  <w xml:id="o4986-265290" n="129-a-1340" lemma="on" pos="ADP"
+                     norm="on" orig="on" met="1">on</w>
+                  <c> </c>
+                  <w xml:id="o4986-265300" n="129-a-1350" lemma="devotion" pos="ng1"
+                     norm="Devotion's" orig="Devotion's" met="3"
+                    >Devotion's</w>
+                  <c> </c>
+                  <w xml:id="o4986-265310" n="129-a-1360" lemma="wing" pos="n1"
+                     norm="wing" orig="wing" met="1">wing</w>
+                  <c> </c>
+                  <w xml:id="o4986-265320" n="129-a-1370" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265330" n="129-a-1380" lemma="soul" pos="n1"
+                     norm="soul" orig="soul" met="1">soul</w>
+               </l>
+               <l xml:id="o4986-l14465">
+                  <c> </c>
+                  <w xml:id="o4986-265340" n="129-a-1390" lemma="ascend" pos="vvz"
+                     norm="Ascends" orig="Ascends" met="2"
+                     >Ascends</w>
+                  <c> </c>
+                  <w xml:id="o4986-265350" n="129-a-1400" lemma="her" pos="po31"
+                     norm="her" orig="her" met="1">her</w>
+                  <c> </c>
+                  <w xml:id="o4986-265360" n="129-a-1410" lemma="native" pos="j-jn"
+                     norm="native" orig="native" met="2"
+                     >native</w>
+                  <c> </c>
+                  <w xml:id="o4986-265370" n="129-a-1420" lemma="sky" pos="n2"
+                     norm="skies" orig="skies" met="1">skies</w>
+                  <pc xml:id="o4986-265380" n="129-a-1430" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <pb facs="o4986/0130" n="128" rend="none"/>
+            <lg xml:id="o4986-s01945">
+               <l xml:id="o4986-l14470">
+                  <w xml:id="o4986-265410" n="130-a-0010" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-265420" n="130-a-0020" lemma="when" pos="c-crq"
+                     norm="when" orig="when" met="1">when</w>
+                  <c> </c>
+                  <w xml:id="o4986-265430" n="130-a-0030" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265440" n="130-a-0040" lemma="rapid" pos="ADJ"
+                     norm="rapid" orig="rapid" met="2">rapid</w>
+                  <c> </c>
+                  <w xml:id="o4986-265450" n="130-a-0050" lemma="car" pos="n1"
+                     norm="car" orig="car" met="1">car</w>
+                  <c> </c>
+                  <w xml:id="o4986-265460" n="130-a-0060" lemma="of" pos="pp-f"
+                     norm="of" orig="of" met="1">of</w>
+                  <c> </c>
+                  <w xml:id="o4986-265470" n="130-a-0070" lemma="day" pos="n1"
+                     norm="day" orig="day" met="1">day</w>
+               </l>
+               <l xml:id="o4986-l14475">
+                  <c> </c>
+                  <w xml:id="o4986-265480" n="130-a-0080" lemma="illume" pos="vvz"
+                     norm="Illumes" orig="Illumes" met="3"
+                     >Illumes</w>
+                  <c> </c>
+                  <w xml:id="o4986-265490" n="130-a-0090" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265500" n="130-a-0100" lemma="farther" pos="js"
+                     norm="farthest" orig="farthest" met="2"
+                     >farthest</w>
+                  <c> </c>
+                  <w xml:id="o4986-265510" n="130-a-0110" lemma="west" pos="n1"
+                     norm="west" orig="west" met="1">west</w>
+                  <pc xml:id="o4986-265520" n="130-a-0120" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14480">
+                  <c> </c>
+                  <w xml:id="o4986-265530" n="130-a-0130" lemma="when" pos="c-crq"
+                     norm="When" orig="When" met="1">When</w>
+                  <c> </c>
+                  <w xml:id="o4986-265540" n="130-a-0140" lemma="sleep" pos="n1"
+                     norm="sleep" orig="sleep" met="1">sleep</w>
+                  <c> </c>
+                  <w xml:id="o4986-265550" n="130-a-0150" lemma="dissolve" pos="vvz"
+                     norm="dissolves" orig="dissolves" met="2"
+                     >dissolves</w>
+                  <c> </c>
+                  <w xml:id="o4986-265560" n="130-a-0160" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265570" n="130-a-0170" lemma="captive" pos="n2-jn"
+                     norm="captives" orig="captives" met="2"
+                     >captives</w>
+                  <c> </c>
+                  <w xml:id="o4986-265580" n="130-a-0180" lemma="chain" pos="n2"
+                     norm="chains" orig="chains" met="1"
+                     >chains</w>
+                  <pc xml:id="o4986-265590" n="130-a-0190" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14485">
+                  <c> </c>
+                  <w xml:id="o4986-265600" n="130-a-0200" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-265610" n="130-a-0210" lemma="anguish" pos="n1"
+                     norm="anguish" orig="anguish" met="2"
+                     >anguish</w>
+                  <c> </c>
+                  <w xml:id="o4986-265620" n="130-a-0220" lemma="sink" pos="vvz"
+                     norm="sinks" orig="sinks" met="1">sinks</w>
+                  <c> </c>
+                  <w xml:id="o4986-265630" n="130-a-0230" lemma="to" pos="pc-acp"
+                     norm="to" orig="to" met="1">to</w>
+                  <c> </c>
+                  <w xml:id="o4986-265640" n="130-a-0240" lemma="rest" pos="vvi"
+                     norm="rest" orig="rest" met="1">rest</w>
+                  <pc xml:id="o4986-265650" n="130-a-0250" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01950">
+               <l xml:id="o4986-l14490">
+                  <w xml:id="o4986-265680" n="130-a-0260" lemma="then" pos="ADV"
+                     norm="Then" orig="Then" met="1">Then</w>
+                  <c> </c>
+                  <w xml:id="o4986-265690" n="130-a-0270" lemma="let" pos="VERB"
+                     norm="let" orig="let" met="1">let</w>
+                  <c> </c>
+                  <w xml:id="o4986-265700" n="130-a-0280" lemma="i" pos="pno11"
+                     norm="me" orig="me" met="1">me</w>
+                  <c> </c>
+                  <w xml:id="o4986-265710" n="130-a-0290" lemma="range" pos="vvi"
+                     norm="range" orig="range" met="1">range</w>
+                  <c> </c>
+                  <w xml:id="o4986-265720" n="130-a-0300" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265730" n="130-a-0310" lemma="shadowy" pos="ADJ"
+                     norm="shadowy" orig="shadowy" met="3"
+                     >shadowy</w>
+                  <c> </c>
+                  <w xml:id="o4986-265740" n="130-a-0320" lemma="lawn" pos="n2"
+                     norm="lawns" orig="lawns" met="1">lawns</w>
+               </l>
+               <l xml:id="o4986-l14495">
+                  <c> </c>
+                  <w xml:id="o4986-265750" n="130-a-0330" lemma="when" pos="q-crq"
+                     norm="When" orig="When" met="1">When</w>
+                  <c> </c>
+                  <w xml:id="o4986-265760" n="130-a-0340" lemma="vesper" pos="fw-la"
+                     norm="Vesper's" orig="Vesper's" met="2"
+                     >Vesper's</w>
+                  <c> </c>
+                  <w xml:id="o4986-265770" n="130-a-0350" lemma="silver" pos="av-n"
+                     norm="silver" orig="silver" met="2"
+                     >silver</w>
+                  <c> </c>
+                  <w xml:id="o4986-265780" n="130-a-0360" lemma="light" pos="n1"
+                     norm="light" orig="light" met="1">light</w>
+               </l>
+               <l xml:id="o4986-l14500">
+                  <c> </c>
+                  <w xml:id="o4986-265790" n="130-a-0370" lemma="play" pos="vvz"
+                     norm="Plays" orig="Plays" met="1">Plays</w>
+                  <c> </c>
+                  <w xml:id="o4986-265800" n="130-a-0380" lemma="on" pos="ADP"
+                     norm="on" orig="on" met="1">on</w>
+                  <c> </c>
+                  <w xml:id="o4986-265810" n="130-a-0390" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-265820" n="130-a-0400" lemma="tremble" pos="j-vvg"
+                     norm="trembling" orig="trembling" met="2"
+                     >trembling</w>
+                  <c> </c>
+                  <w xml:id="o4986-265830" n="130-a-0410" lemma="stream" pos="n2"
+                     norm="streams" orig="streams" met="1"
+                     >streams</w>
+                  <pc xml:id="o4986-265840" n="130-a-0420" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+                  <c> </c>
+                  <w xml:id="o4986-265850" n="130-a-0430" lemma="and" pos="cc"
+                     norm="and" orig="and" met="1">and</w>
+                  <c> </c>
+                  <w xml:id="o4986-265860" n="130-a-0440" lemma="gild" pos="vvz"
+                     norm="gilds" orig="gilds" met="1">gilds</w>
+               </l>
+               <l xml:id="o4986-l14505">
+                  <c> </c>
+                  <w xml:id="o4986-265870" n="130-a-0450" lemma="the" pos="dt"
+                     norm="The" orig="The" met="1">The</w>
+                  <c> </c>
+                  <w xml:id="o4986-265880" n="130-a-0460" lemma="sable" pos="j-jn"
+                     norm="sable" orig="sable" met="2">sable</w>
+                  <c> </c>
+                  <w xml:id="o4986-265890" n="130-a-0470" lemma="veil" pos="n1"
+                     norm="veil" orig="veil" met="1">veil</w>
+                  <c> </c>
+                  <w xml:id="o4986-265900" n="130-a-0480" lemma="of" pos="pp-f"
+                     norm="of" orig="of" met="1">of</w>
+                  <c> </c>
+                  <w xml:id="o4986-265910" n="130-a-0490" lemma="night" pos="n1"
+                     norm="night" orig="night" met="1">night</w>
+                  <pc xml:id="o4986-265920" n="130-a-0500" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01955">
+               <l xml:id="o4986-l14510">
+                  <w xml:id="o4986-265950" n="130-a-0510" lemma="when" pos="c-crq"
+                     norm="When" orig="When" met="1">When</w>
+                  <c> </c>
+                  <w xml:id="o4986-265960" n="130-a-0520" lemma="every" pos="d"
+                     norm="every" orig="every" met="2">every</w>
+                  <c> </c>
+                  <w xml:id="o4986-265970" n="130-a-0530" lemma="earthly" pos="ADJ"
+                     norm="earthly" orig="earthly" met="2"
+                     >earthly</w>
+                  <c> </c>
+                  <w xml:id="o4986-265980" n="130-a-0540" lemma="care" pos="n1|vbz"
+                     norm="care's" orig="care's" met="1"
+                     >care's</w>
+                  <c> </c>
+                  <w xml:id="o4986-265990" n="130-a-0550" lemma="at" pos="ADP"
+                     norm="at" orig="at" met="1">at</w>
+                  <c> </c>
+                  <w xml:id="o4986-266000" n="130-a-0560" lemma="rest" pos="n1"
+                     norm="rest" orig="rest" met="1">rest</w>
+                  <pc xml:id="o4986-266010" n="130-a-0570" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14515">
+                  <c> </c>
+                  <w xml:id="o4986-266020" n="130-a-0580" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-266030" n="130-a-0590" lemma="muse" pos="vvg"
+                     norm="musing" orig="musing" met="2"
+                     >musing</w>
+                  <c> </c>
+                  <w xml:id="o4986-266040" n="130-a-0600" lemma="silence" pos="n1"
+                     norm="Silence" orig="Silence" met="2"
+                     >Silence</w>
+                  <c> </c>
+                  <w xml:id="o4986-266050" n="130-a-0610" lemma="reign" pos="vvz"
+                     norm="reigns" orig="reigns" met="1"
+                     >reigns</w>
+                  <pc xml:id="o4986-266060" n="130-a-0620" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14520">
+                  <c> </c>
+                  <w xml:id="o4986-266070" n="130-a-0630" lemma="then" pos="ADV"
+                     norm="Then" orig="Then" met="1">Then</w>
+                  <c> </c>
+                  <w xml:id="o4986-266080" n="130-a-0640" lemma="active" pos="ADJ"
+                     norm="active" orig="active" met="2"
+                     >active</w>
+                  <c> </c>
+                  <w xml:id="o4986-266090" n="130-a-0650" lemma="fancy" pos="n1"
+                     norm="Fancy" orig="Fancy" met="2">Fancy</w>
+                  <c> </c>
+                  <w xml:id="o4986-266100" n="130-a-0660" lemma="take" pos="vvz"
+                     norm="takes" orig="takes" met="1">takes</w>
+                  <c> </c>
+                  <w xml:id="o4986-266110" n="130-a-0670" lemma="her" pos="po31"
+                     norm="her" orig="her" met="1">her</w>
+                  <c> </c>
+                  <w xml:id="o4986-266120" n="130-a-0680" lemma="flight" pos="n1"
+                     norm="flight" orig="flight" met="1"
+                     >flight</w>
+               </l>
+               <l xml:id="o4986-l14525">
+                  <c> </c>
+                  <w xml:id="o4986-266130" n="130-a-0690" lemma="wide" pos="av-j"
+                     norm="Wide" orig="Wide" met="1">Wide</w>
+                  <c> </c>
+                  <w xml:id="o4986-266140" n="130-a-0700" lemma="over" pos="ADP"
+                     norm="over" orig="o'er" met="1">o'er</w>
+                  <c> </c>
+                  <w xml:id="o4986-266150" n="130-a-0710" lemma="the" pos="dt"
+                     norm="the" orig="th'" met="0">th'</w>
+                  <c> </c>
+                  <w xml:id="o4986-266160" n="130-a-0720" lemma="etherial" pos="ADJ"
+                     norm="etherial" orig="etherial" met="4"
+                     >etherial</w>
+                  <c> </c>
+                  <w xml:id="o4986-266170" n="130-a-0730" lemma="plain" pos="n2"
+                     norm="plains" orig="plains" met="1"
+                     >plains</w>
+                  <pc xml:id="o4986-266180" n="130-a-0740" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01960">
+               <l xml:id="o4986-l14530">
+                  <w xml:id="o4986-266210" n="130-a-0750" lemma="soar" pos="vvz"
+                     norm="Soars" orig="Soars" met="1">Soars</w>
+                  <c> </c>
+                  <w xml:id="o4986-266220" n="130-a-0760" lemma="through" pos="ADP"
+                     norm="through" orig="thro'" met="1">thro'</w>
+                  <c> </c>
+                  <w xml:id="o4986-266230" n="130-a-0770" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-266240" n="130-a-0780" lemma="trackless" pos="ADJ"
+                     norm="trackless" orig="trackless" met="2"
+                     >trackless</w>
+                  <c> </c>
+                  <w xml:id="o4986-266250" n="130-a-0790" lemma="realm" pos="n2"
+                     norm="realms" orig="realms" met="1"
+                     >realms</w>
+                  <c> </c>
+                  <w xml:id="o4986-266260" n="130-a-0800" lemma="of" pos="pp-f"
+                     norm="of" orig="of" met="1">of</w>
+                  <c> </c>
+                  <w xml:id="o4986-266270" n="130-a-0810" lemma="space" pos="n1"
+                     norm="space" orig="space" met="1">space</w>
+                  <pc xml:id="o4986-266280" n="130-a-0820" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14535">
+                  <c> </c>
+                  <w xml:id="o4986-266290" n="130-a-0830" lemma="see" pos="vvz"
+                     norm="Sees" orig="Sees" met="1">Sees</w>
+                  <c> </c>
+                  <w xml:id="o4986-266300" n="130-a-0840" lemma="endless" pos="ADJ"
+                     norm="endless" orig="endless" met="2"
+                     >endless</w>
+                  <c> </c>
+                  <w xml:id="o4986-266310" n="130-a-0850" lemma="system" pos="n2"
+                     norm="systems" orig="systems" met="2"
+                     >systems</w>
+                  <c> </c>
+                  <w xml:id="o4986-266320" n="130-a-0860" lemma="roll" pos="VERB"
+                     norm="roll" orig="roll" met="1">roll</w>
+                  <pc xml:id="o4986-266330" n="130-a-0870" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14540">
+                  <c> </c>
+                  <w xml:id="o4986-266340" n="130-a-0880" lemma="while" pos="cs"
+                     norm="While" orig="Whilst" met="1"
+                     >Whilst</w>
+                  <c> </c>
+                  <w xml:id="o4986-266350" n="130-a-0890" lemma="all" pos="d" norm="all"
+                     orig="all" met="1">all</w>
+                  <c> </c>
+                  <w xml:id="o4986-266360" n="130-a-0900" lemma="harmonious" pos="av-j"
+                     norm="harmoniously" orig="harmoniously" met="5"
+                    >harmoniously</w>
+                  <c> </c>
+                  <w xml:id="o4986-266370" n="130-a-0910" lemma="combine" pos="vvi"
+                     norm="combine" orig="combine" met="2"
+                     >combine</w>
+                  <pc xml:id="o4986-266380" n="130-a-0920" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14545">
+                  <c> </c>
+                  <w xml:id="o4986-266390" n="130-a-0930" lemma="to" pos="pc-acp"
+                     norm="To" orig="To" met="1">To</w>
+                  <c> </c>
+                  <w xml:id="o4986-266400" n="130-a-0940" lemma="form" pos="vvi"
+                     norm="form" orig="form" met="1">form</w>
+                  <c> </c>
+                  <w xml:id="o4986-266410" n="130-a-0950" lemma="one" pos="crd"
+                     norm="one" orig="one" met="1">one</w>
+                  <c> </c>
+                  <w xml:id="o4986-266420" n="130-a-0960" lemma="beauteous" pos="ADJ"
+                     norm="beauteous" orig="beauteous" met="2"
+                     >beauteous</w>
+                  <c> </c>
+                  <w xml:id="o4986-266430" n="130-a-0970" lemma="whole" pos="n-jn"
+                     norm="whole" orig="whole" met="1">whole</w>
+                  <pc xml:id="o4986-266440" n="130-a-0980" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01965">
+               <l xml:id="o4986-l14550">
+                  <w xml:id="o4986-266470" n="130-a-0990" lemma="all" pos="av-d"
+                     norm="All" orig="All" met="1">All</w>
+                  <c> </c>
+                  <w xml:id="o4986-266480" n="130-a-1000" lemma="hail" pos="n1"
+                     norm="hail" orig="hail" met="1">hail</w>
+                  <pc xml:id="o4986-266490" n="130-a-1010" lemma="!" pos="!" norm="!"
+                     orig="!">!</pc>
+                  <c> </c>
+                  <w xml:id="o4986-266500" n="130-a-1020" lemma="sweet" pos="ADJ"
+                     norm="sweet" orig="sweet" met="1">sweet</w>
+                  <c> </c>
+                  <w xml:id="o4986-266510" n="130-a-1030" lemma="solitude" pos="n1"
+                     norm="Solitude" orig="Solitude" met="3"
+                     >Solitude</w>
+                  <pc xml:id="o4986-266520" n="130-a-1040" lemma="!" pos="!" norm="!"
+                     orig="!">!</pc>
+                  <c> </c>
+                  <w xml:id="o4986-266530" n="130-a-1050" lemma="to" pos="ADP"
+                     norm="to" orig="to" met="1">to</w>
+                  <c> </c>
+                  <w xml:id="o4986-266540" n="130-a-1060" lemma="thou" pos="pno21"
+                     norm="thee" orig="thee" met="1">thee</w>
+                  <pc xml:id="o4986-266550" n="130-a-1070" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14555">
+                  <c> </c>
+                  <w xml:id="o4986-266560" n="130-a-1080" lemma="in" pos="ADP"
+                     norm="In" orig="In" met="1">In</w>
+                  <c> </c>
+                  <w xml:id="o4986-266570" n="130-a-1090" lemma="thy" pos="po21"
+                     norm="thy" orig="thy" met="1">thy</w>
+                  <c> </c>
+                  <w xml:id="o4986-266580" n="130-a-1100" lemma="sequester" pos="j-vvn"
+                     norm="sequestered" orig="sequester'd" met="3"
+                    >sequester'd</w>
+                  <c> </c>
+                  <w xml:id="o4986-266590" n="130-a-1110" lemma="bower" pos="n1"
+                     norm="bower" orig="bower" met="2">bower</w>
+                  <pc xml:id="o4986-266600" n="130-a-1120" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14560">
+                  <c> </c>
+                  <w xml:id="o4986-266610" n="130-a-1130" lemma="let" pos="VERB"
+                     norm="Let" orig="Let" met="1">Let</w>
+                  <c> </c>
+                  <w xml:id="o4986-266620" n="130-a-1140" lemma="i" pos="pno11"
+                     norm="me" orig="me" met="1">me</w>
+                  <c> </c>
+                  <w xml:id="o4986-266630" n="130-a-1150" lemma="invoke" pos="vvi"
+                     norm="invoke" orig="invoke" met="2"
+                     >invoke</w>
+                  <c> </c>
+                  <w xml:id="o4986-266640" n="130-a-1160" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-266650" n="130-a-1170" lemma="pastoral" pos="n-jn"
+                     norm="Pastoral" orig="Pastoral" met="3"
+                     >Pastoral</w>
+                  <c> </c>
+                  <w xml:id="o4986-266660" n="130-a-1180" lemma="muse" pos="n1"
+                     norm="Muse" orig="Muse" met="1">Muse</w>
+                  <pc xml:id="o4986-266670" n="130-a-1190" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14565">
+                  <c> </c>
+                  <w xml:id="o4986-266680" n="130-a-1200" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-266690" n="130-a-1210" lemma="every" pos="d"
+                     norm="every" orig="every" met="2">every</w>
+                  <c> </c>
+                  <w xml:id="o4986-266700" n="130-a-1220" lemma="sylvan" pos="ADJ"
+                     norm="Sylvan" orig="Sylvan" met="2"
+                     >Sylvan</w>
+                  <c> </c>
+                  <w xml:id="o4986-266710" n="130-a-1230" lemma="power" pos="n1"
+                     norm="power" orig="power" met="1">power</w>
+                  <pc xml:id="o4986-266720" n="130-a-1240" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01970">
+               <l xml:id="o4986-l14570">
+                  <w xml:id="o4986-266750" n="130-a-1250" lemma="dear" pos="j-jn"
+                     norm="Dear" orig="Dear" met="1">Dear</w>
+                  <c> </c>
+                  <w xml:id="o4986-266760" n="130-a-1260" lemma="pensive" pos="ADJ"
+                     norm="pensive" orig="pensive" met="2"
+                     >pensive</w>
+                  <c> </c>
+                  <w xml:id="o4986-266770" n="130-a-1270" lemma="nymph" pos="n1"
+                     norm="Nymph" orig="Nymph" met="1">Nymph</w>
+                  <pc xml:id="o4986-266780" n="130-a-1280" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+                  <c> </c>
+                  <w xml:id="o4986-266790" n="130-a-1290" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-266800" n="130-a-1300" lemma="tender" pos="ADJ"
+                     norm="tender" orig="tender" met="2"
+                     >tender</w>
+                  <c> </c>
+                  <w xml:id="o4986-266810" n="130-a-1310" lemma="thought" pos="n1"
+                     norm="thought" orig="thought" met="1"
+                     >thought</w>
+               </l>
+               <l xml:id="o4986-l14575">
+                  <c> </c>
+                  <w xml:id="o4986-266820" n="130-a-1320" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-266830" n="130-a-1330" lemma="deep" pos="j-jn"
+                     norm="deep" orig="deep" met="1">deep</w>
+                  <c> </c>
+                  <w xml:id="o4986-266840" n="130-a-1340" lemma="research" pos="n1"
+                     norm="research" orig="research" met="2"
+                     >research</w>
+                  <c> </c>
+                  <w xml:id="o4986-266850" n="130-a-1350" lemma="be" pos="vbz" norm="is"
+                     orig="is" met="1">is</w>
+                  <c> </c>
+                  <w xml:id="o4986-266860" n="130-a-1360" lemma="thy" pos="po21"
+                     norm="thine" orig="thine" met="1">thine</w>
+                  <pc xml:id="o4986-266870" n="130-a-1370" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14580">
+                  <c> </c>
+                  <w xml:id="o4986-266880" n="130-a-1380" lemma="it|be" pos="pn31|vbz"
+                     norm="It's" orig="'Tis" met="1">'Tis</w>
+                  <c> </c>
+                  <w xml:id="o4986-266890" n="130-a-1390" lemma="thy" pos="po21"
+                     norm="thine" orig="thine" met="1">thine</w>
+                  <c> </c>
+                  <w xml:id="o4986-266900" n="130-a-1400" lemma="to" pos="pc-acp"
+                     norm="to" orig="to" met="1">to</w>
+                  <c> </c>
+                  <w xml:id="o4986-266910" n="130-a-1410" lemma="heal" pos="vvi"
+                     norm="heal" orig="heal" met="1">heal</w>
+                  <c> </c>
+                  <w xml:id="o4986-266920" n="130-a-1420" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-266930" n="130-a-1430" lemma="torture" pos="j-vvn"
+                     norm="tortured" orig="tortur'd" met="2"
+                     >tortur'd</w>
+                  <c> </c>
+                  <w xml:id="o4986-266940" n="130-a-1440" lemma="breast" pos="n1"
+                     norm="breast" orig="breast" met="1"
+                     >breast</w>
+                  <pc xml:id="o4986-266950" n="130-a-1450" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14585">
+                  <c> </c>
+                  <w xml:id="o4986-266960" n="130-a-1460" lemma="and" pos="cc"
+                     norm="And" orig="And" met="1">And</w>
+                  <c> </c>
+                  <w xml:id="o4986-266970" n="130-a-1470" lemma="form" pos="vvi"
+                     norm="form" orig="form" met="1">form</w>
+                  <c> </c>
+                  <w xml:id="o4986-266980" n="130-a-1480" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-266990" n="130-a-1490" lemma="great" pos="ADJ"
+                     norm="great" orig="great" met="1">great</w>
+                  <c> </c>
+                  <w xml:id="o4986-267000" n="130-a-1500" lemma="design" pos="n1"
+                     norm="design" orig="design" met="2"
+                     >design</w>
+                  <pc xml:id="o4986-267010" n="130-a-1510" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <pb facs="o4986/0131" n="129" rend="none"/>
+            <lg xml:id="o4986-s01975">
+               <l xml:id="o4986-l14590">
+                  <w xml:id="o4986-267040" n="131-a-0010" lemma="on" pos="ADP"
+                     norm="On" orig="On" met="1">On</w>
+                  <c> </c>
+                  <w xml:id="o4986-267050" n="131-a-0020" lemma="thy" pos="po21"
+                     norm="thy" orig="thy" met="1">thy</w>
+                  <c> </c>
+                  <w xml:id="o4986-267060" n="131-a-0030" lemma="still" pos="ADJ"
+                     norm="still" orig="still" met="1">still</w>
+                  <c> </c>
+                  <w xml:id="o4986-267070" n="131-a-0040" lemma="bosom" pos="n1"
+                     norm="bosom" orig="bosom" met="2">bosom</w>
+                  <c> </c>
+                  <w xml:id="o4986-267080" n="131-a-0050" lemma="let" pos="VERB"
+                     norm="let" orig="let" met="1">let</w>
+                  <c> </c>
+                  <w xml:id="o4986-267090" n="131-a-0060" lemma="i" pos="pno11"
+                     norm="me" orig="me" met="1">me</w>
+                  <c> </c>
+                  <w xml:id="o4986-267100" n="131-a-0070" lemma="rest" pos="vvi"
+                     norm="rest" orig="rest" met="1">rest</w>
+                  <pc xml:id="o4986-267110" n="131-a-0080" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14595">
+                  <c> </c>
+                  <w xml:id="o4986-267120" n="131-a-0090" lemma="far" pos="av-j"
+                     norm="Far" orig="Far" met="1">Far</w>
+                  <c> </c>
+                  <w xml:id="o4986-267130" n="131-a-0100" lemma="from" pos="ADP"
+                     norm="from" orig="from" met="1">from</w>
+                  <c> </c>
+                  <w xml:id="o4986-267140" n="131-a-0110" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-267150" n="131-a-0120" lemma="clang" pos="n1"
+                     norm="clang" orig="clang" met="1">clang</w>
+                  <c> </c>
+                  <w xml:id="o4986-267160" n="131-a-0130" lemma="of" pos="pp-f"
+                     norm="of" orig="of" met="1">of</w>
+                  <c> </c>
+                  <w xml:id="o4986-267170" n="131-a-0140" lemma="war" pos="n1"
+                     norm="war" orig="war" met="1">war</w>
+                  <pc xml:id="o4986-267180" n="131-a-0150" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14600">
+                  <c> </c>
+                  <w xml:id="o4986-267190" n="131-a-0160" lemma="where" pos="q-crq"
+                     norm="Where" orig="Where" met="1">Where</w>
+                  <c> </c>
+                  <w xml:id="o4986-267200" n="131-a-0170" lemma="stern" pos="ADJ"
+                     norm="stern" orig="stern" met="1">stern</w>
+                  <c> </c>
+                  <w xml:id="o4986-267210" n="131-a-0180" lemma="oppression" pos="n1|vbz"
+                     norm="Oppression's" orig="Oppression's" met="3"
+                    >Oppression's</w>
+                  <c> </c>
+                  <w xml:id="o4986-267220" n="131-a-0190" lemma="bloody" pos="ADJ"
+                     norm="bloody" orig="bloody" met="2"
+                     >bloody</w>
+                  <c> </c>
+                  <w xml:id="o4986-267230" n="131-a-0200" lemma="chain" pos="n2"
+                     norm="chains" orig="chains" met="1"
+                     >chains</w>
+               </l>
+               <l xml:id="o4986-l14605">
+                  <c> </c>
+                  <w xml:id="o4986-267240" n="131-a-0210" lemma="precede" pos="vvi"
+                     norm="Precede" orig="Precede" met="2"
+                     >Precede</w>
+                  <c> </c>
+                  <w xml:id="o4986-267250" n="131-a-0220" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-267260" n="131-a-0230" lemma="victor" pos="ng1"
+                     norm="victor's" orig="victor's" met="2"
+                     >victor's</w>
+                  <c> </c>
+                  <w xml:id="o4986-267270" n="131-a-0240" lemma="car" pos="n1"
+                     norm="car" orig="car" met="1">car</w>
+                  <pc xml:id="o4986-267280" n="131-a-0250" lemma=":" pos=":" norm=":"
+                     orig=":">:</pc>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01980">
+               <l xml:id="o4986-l14610">
+                  <w xml:id="o4986-267310" n="131-a-0260" lemma="here" pos="ADV"
+                     norm="Here" orig="Here" met="1">Here</w>
+                  <c> </c>
+                  <w xml:id="o4986-267320" n="131-a-0270" lemma="fold" pos="VERB"
+                     norm="fold" orig="fold" met="1">fold</w>
+                  <c> </c>
+                  <w xml:id="o4986-267330" n="131-a-0280" lemma="i" pos="pno11"
+                     norm="me" orig="me" met="1">me</w>
+                  <c> </c>
+                  <w xml:id="o4986-267340" n="131-a-0290" lemma="in" pos="ADP"
+                     norm="in" orig="in" met="1">in</w>
+                  <c> </c>
+                  <w xml:id="o4986-267350" n="131-a-0300" lemma="thy" pos="po21"
+                     norm="thy" orig="thy" met="1">thy</w>
+                  <c> </c>
+                  <w xml:id="o4986-267360" n="131-a-0310" lemma="sacred" pos="ADJ"
+                     norm="sacred" orig="sacred" met="1"
+                     >sacred</w>
+                  <c> </c>
+                  <w xml:id="o4986-267370" n="131-a-0320" lemma="arm" pos="n2"
+                     norm="arms" orig="arms" met="1">arms</w>
+                  <pc xml:id="o4986-267380" n="131-a-0330" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14615">
+                  <c> </c>
+                  <w xml:id="o4986-267390" n="131-a-0340" lemma="where" pos="c-crq"
+                     norm="Where" orig="Where" met="1">Where</w>
+                  <c> </c>
+                  <w xml:id="o4986-267400" n="131-a-0350" lemma="albion" pos="npg1"
+                     norm="Albion's" orig="Albion's" met="2"
+                     >Albion's</w>
+                  <c> </c>
+                  <w xml:id="o4986-267410" n="131-a-0360" lemma="happy" pos="ADJ"
+                     norm="happy" orig="happy" met="2">happy</w>
+                  <c> </c>
+                  <w xml:id="o4986-267420" n="131-a-0370" lemma="plain" pos="n2"
+                     norm="plains" orig="plains" met="1"
+                     >plains</w>
+               </l>
+               <l xml:id="o4986-l14620">
+                  <c> </c>
+                  <w xml:id="o4986-267430" n="131-a-0380" lemma="exult" pos="vvg"
+                     norm="Exulting" orig="Exulting" met="3"
+                     >Exulting</w>
+                  <c> </c>
+                  <w xml:id="o4986-267440" n="131-a-0390" lemma="tell" pos="VERB"
+                     norm="tell" orig="tell" met="1">tell</w>
+                  <c> </c>
+                  <w xml:id="o4986-267450" n="131-a-0400" lemma="the" pos="dt"
+                     norm="the" orig="the" met="1">the</w>
+                  <c> </c>
+                  <w xml:id="o4986-267460" n="131-a-0410" lemma="nation" pos="n2"
+                     norm="nations" orig="nations" met="2"
+                     >nations</w>
+                  <c> </c>
+                  <w xml:id="o4986-267470" n="131-a-0420" lemma="round" pos="av-j"
+                     norm="round" orig="round" met="1">round</w>
+                  <pc xml:id="o4986-267480" n="131-a-0430" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14625">
+                  <c> </c>
+                  <w xml:id="o4986-267490" n="131-a-0440" lemma="a" pos="dt" norm="A"
+                     orig="A" met="1">A</w>
+                  <c> </c>
+                  <w xml:id="o4986-267500" n="131-a-0450" lemma="british" pos="jp"
+                     norm="British" orig="British" met="2"
+                     >British</w>
+                  <c> </c>
+                  <w xml:id="o4986-267510" n="131-a-0460" lemma="Brunswick" pos="PROPN"
+                     norm="Brunswick" orig="Brunswick" met="2"
+                     >Brunswick</w>
+                  <c> </c>
+                  <w xml:id="o4986-267520" n="131-a-0470" lemma="reign" pos="vvz"
+                     norm="reigns" orig="reigns" met="1"
+                     >reigns</w>
+                  <pc xml:id="o4986-267530" n="131-a-0480" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+            <lg xml:id="o4986-s01985">
+               <l xml:id="o4986-l14630">
+                  <w xml:id="o4986-267560" n="131-a-0490" lemma="here" pos="ADV"
+                     norm="Here" orig="Here" met="1">Here</w>
+                  <c> </c>
+                  <w xml:id="o4986-267570" n="131-a-0500" lemma="let" pos="VERB"
+                     norm="let" orig="let" met="1">let</w>
+                  <c> </c>
+                  <w xml:id="o4986-267580" n="131-a-0510" lemma="i" pos="pno11"
+                     norm="me" orig="me" met="1">me</w>
+                  <c> </c>
+                  <w xml:id="o4986-267590" n="131-a-0520" lemma="hail" pos="vvi"
+                     norm="hail" orig="hail" met="1">hail</w>
+                  <c> </c>
+                  <w xml:id="o4986-267600" n="131-a-0530" lemma="each" pos="d"
+                     norm="each" orig="each" met="1">each</w>
+                  <c> </c>
+                  <w xml:id="o4986-267610" n="131-a-0540" lemma="rise" pos="j-vvg"
+                     norm="rising" orig="rising" met="2"
+                     >rising</w>
+                  <c> </c>
+                  <w xml:id="o4986-267620" n="131-a-0550" lemma="sun" pos="n1"
+                     norm="sun" orig="sun" met="1">sun</w>
+                  <pc xml:id="o4986-267630" n="131-a-0560" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14635">
+                  <c> </c>
+                  <w xml:id="o4986-267640" n="131-a-0570" lemma="here" pos="ADV"
+                     norm="Here" orig="Here" met="1">Here</w>
+                  <c> </c>
+                  <w xml:id="o4986-267650" n="131-a-0580" lemma="view" pos="VERB"
+                     norm="view" orig="view" met="1">view</w>
+                  <c> </c>
+                  <w xml:id="o4986-267660" n="131-a-0590" lemma="each" pos="d"
+                     norm="each" orig="each" met="1">each</w>
+                  <c> </c>
+                  <w xml:id="o4986-267670" n="131-a-0600" lemma="day" pos="ng1"
+                     norm="day's" orig="day's" met="1">day's</w>
+                  <c> </c>
+                  <w xml:id="o4986-267680" n="131-a-0610" lemma="decline" pos="vvi"
+                     norm="decline" orig="decline" met="2"
+                     >decline</w>
+                  <pc xml:id="o4986-267690" n="131-a-0620" lemma=";" pos=";" norm=";"
+                     orig=";">;</pc>
+               </l>
+               <l xml:id="o4986-l14640">
+                  <c> </c>
+                  <w xml:id="o4986-267700" n="131-a-0630" lemma="be" pos="vbb" norm="Be"
+                     orig="Be" met="1">Be</w>
+                  <c> </c>
+                  <w xml:id="o4986-267710" n="131-a-0640" lemma="fame" pos="n1"
+                     norm="Fame" orig="Fame" met="1">Fame</w>
+                  <c> </c>
+                  <w xml:id="o4986-267720" n="131-a-0650" lemma="and" pos="cc"
+                     norm="and" orig="and" met="1">and</w>
+                  <c> </c>
+                  <w xml:id="o4986-267730" n="131-a-0660" lemma="sway" pos="vvi"
+                     norm="Sway" orig="Sway" met="1">Sway</w>
+                  <c> </c>
+                  <w xml:id="o4986-267740" n="131-a-0670" lemma="my" pos="po11"
+                     norm="my" orig="my" met="1">my</w>
+                  <c> </c>
+                  <w xml:id="o4986-267750" n="131-a-0680" lemma="sovereign" pos="ng1"
+                     norm="Sovereign's" orig="Sovereign's" met="3"
+                    >Sovereign's</w>
+                  <c> </c>
+                  <w xml:id="o4986-267760" n="131-a-0690" lemma="lot" pos="n1"
+                     norm="lot" orig="lot" met="1">lot</w>
+                  <pc xml:id="o4986-267770" n="131-a-0700" lemma="," pos="," norm=","
+                     orig=",">,</pc>
+               </l>
+               <l xml:id="o4986-l14645">
+                  <c> </c>
+                  <w xml:id="o4986-267780" n="131-a-0710" lemma="be" pos="vbb" norm="Be"
+                     orig="Be" met="1">Be</w>
+                  <c> </c>
+                  <w xml:id="o4986-267790" n="131-a-0720" lemma="peace" pos="n1"
+                     norm="Peace" orig="Peace" met="1">Peace</w>
+                  <c> </c>
+                  <w xml:id="o4986-267800" n="131-a-0730" lemma="and" pos="cc"
+                     norm="and" orig="and" met="1">and</w>
+                  <c> </c>
+                  <w xml:id="o4986-267810" n="131-a-0740" lemma="freedom" pos="n1"
+                     norm="Freedom" orig="Freedom" met="2"
+                     >Freedom</w>
+                  <c> </c>
+                  <w xml:id="o4986-267820" n="131-a-0750" lemma="mine" pos="n1"
+                     norm="mine" orig="mine" met="1">mine</w>
+                  <pc xml:id="o4986-267830" n="131-a-0760" unit="sentence" lemma="." pos="."
+                     norm="." orig=".">.</pc>
+                  <c> </c>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
