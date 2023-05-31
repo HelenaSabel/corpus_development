@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Corpus development workshop
-description: Support materials
+description: Supporting materials
+footer: This website is mantained by Helena Bermúdez Sabel. Its contents are made available under the terms of the licence Creative Commons Attribution 4.0 International  (CC-BY).
 ---
 # Digital corpus building for humanities research. From data collection, to annotation, exploitation and sharing
 
