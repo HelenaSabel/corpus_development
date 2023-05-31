@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Corpus development workshop
+description: Program and supporting materials
 ---
 # Digital corpus building for humanities research. From data collection, to annotation, exploitation and sharing
 
