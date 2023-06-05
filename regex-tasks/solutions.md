@@ -11,7 +11,7 @@ We look for accented characters and other special characters not available in En
 
 ### Task 2
 - Find: `\[\d+\]`
-- Replace: 
+- Replace: *leave empty*
 
 ### Task 3
 - Find: `^\s*CHAPTER\s+([IVXLCDM]+)\s*$`
@@ -22,5 +22,16 @@ We look for accented characters and other special characters not available in En
 2. ([A-Za-z]+-)+[A-Za-z]+
 
 ### Task 5
-In the file
+1. We replace the white-spaces with a new line:
+	- Find: `\s+`
+	- Replace: `\n`
+2. We add a new line before the punctuation marks that are attached to the end of a word:
+	- Find: `([\)\].,?!;:”"…])`
+	- Replace: `\n$1`
+2. We add a new line before the punctuation marks that are attached to the begining of a word:
+	- Find: `([\(\[“"])`
+	- Replace: `$1\n`
+4. We delete any superfluous newlines (this is, empty new lines):
+	- Find: `\n\s*\n`
+	- Replace: `\n`
 

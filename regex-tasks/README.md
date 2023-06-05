@@ -19,7 +19,8 @@ In the file `galicia_meakin.txt`:
 
 2. Look for hyphenated words (e.g. _up-to-date_)
 
-
+### Task 5
+Transform the file `mrs-dalloway_woolf.txt`, so that it contains one token per line. You will need to do a series of regex manipulations (not just one expression).
 
 
 ## Sources
@@ -30,6 +31,7 @@ These files were taken from:
 - `social-significance-drama_emma-goldman.txt`. Project Gutenberg. Link: https://www.gutenberg.org/ebooks/43490 (this is a modified version of the Plain Text UTF-8 file)
 - `woman-church-state_matilda-gage.txt`. Wikisource. Link: https://en.wikisource.org/wiki/History_of_Woman_Suffrage/Volume_1/Chapter_15 
 - `galicia_meakin.txt`. Project Gutenberg.
+- `mrs-dalloway_woolf.txt`. WikiSource.
 
 
 ## To finish on a happy note
