@@ -55,4 +55,5 @@ interoperability of this type of resource. **Download the supporting materials**
     - [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 - [TXM](https://txm.gitpages.huma-num.fr/textometrie/files/software/TXM/0.8.1/en/)
     - [TreeTagger Extension](https://txm.gitpages.huma-num.fr/textometrie/en/InstallTreeTagger/)
+- Unix terminal. If you have Windows 10 version 2004 and higher (Build 19041 and higher) or Windows 11, you can follow [these instructions](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) to install a Linux distribution (e.g. Ubuntu) so you can access a Unix terminal. 
 
